@@ -1,0 +1,12 @@
+{
+  "name": "testing-device-communication",
+  "displayName": "testing-device-communication",
+  "expo": {
+    "name": "testing-device-communication",
+    "slug": "testing-device-communication",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
